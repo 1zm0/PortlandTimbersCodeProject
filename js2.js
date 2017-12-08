@@ -31,7 +31,7 @@ roster.toString();
 
 for (i=0; i < roster.length; i++) {
   document.write(
-    "<div id = roster>"+
+    "<div id=roster>"+
     roster[i].image +
       "<br>" +
             "Name: " + roster[i].name +
