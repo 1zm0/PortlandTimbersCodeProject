@@ -1,6 +1,5 @@
 body {
-  background: -webkit-linear-gradient(right, blue, green);
-}
+  background-color: #f5f5f5;
 h1,h2 {
-  color: white;
+  color: black;
 }
