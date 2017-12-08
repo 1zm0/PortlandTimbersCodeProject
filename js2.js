@@ -1,5 +1,6 @@
 var roster = [
 {"name":"Fanendo Adi","origin":"Lagos, Nigeria","age":26,"height":"6 foot 4 inches","weight":"185 pounds","position":"Forward","number":9 , "image": '<img src = "timbers_photos/Fanendo_Adi.jpg">' },
+{"name":"Larrys Mabiala","origin":"Montfermeil, France","age":30,"height":"6 foot 2 inches","weight":"185 pounds","position":"Defende","number":33 , "image": '<img src = "timbers_photos/Larrys-Mabiala.jpg">' },
 {"name":"Vytas Andriuškevičius","origin":"Alytus, Lithuania","age":26,"height":"6 foot 2 inches","weight":"175 pounds","position":"Defender","number":5, "image": '<img src = "timbers_photos/Vytautas.jpg">' },
 {"name":"Gbenga Arokoyo","origin":"Kabba, Nigeria","age":24,"height":"6 foot 2 inches","weight":"180 pounds","position":"Defender","number":12, "image": '<img src = "timbers_photos/Gbenga-Arokoyo.jpg">'},
 {"name":"Dairon Asprilla","origin":"Istmina, Columbia","age":24,"height":"5 foot 11 inches","weight":"165 pounds","position":"Midfielder/Forward","number":11, "image": '<img src = "timbers_photos/Dairon-Asprilla.jpg">'},
