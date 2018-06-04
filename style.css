@@ -3,6 +3,7 @@ header {
 	width: 100%;
 	justify-content: center;
 	background-color: #293e1f;
+	border-bottom: solid 2px #d8de21;
 }
 
 header div h1 {
@@ -45,4 +46,11 @@ h1,h2 {
 	width: 88px;
 	height: 125px;
 	border-radius: 10px;
+}
+
+footer {
+	height: 300px;
+	width: 100%;
+	background-color: #293e1f;
+	border-top: solid 2px #d8de21;
 }
